@@ -1,11 +1,15 @@
-# Servers Carbon Footprint
-Carbon Footprint for various on site server providers
+# On Site Servers Carbon Footprint
 
+This is a compiled list of carbon footprints compiled from various sources used for carbon footprint calculations if you are thinking about buying an on-site server. If you wish to add more servers to the list, feel free to issue a pull request.
+
+**kg CO2e w/o use** (kg. CO2 equivalent) is the total carbon footprint for the manufacture, transport and various other carbon emissions that is not related to the actual use of the server.
+
+**kg CO2e w/ use** is the total carbon footprint expected after 4 years of use. 
 
 ## Dell
 data has been extracted from this [site](https://www.dell.com/learn/uk/en/ukcorp1/corporate_corp-comm_dellwebpage/environment_carbon_footprint_products#campaignTabs-3)
 
-|Product Name|kgCo2e w/ use| kgCO2e w/o use|
+|Product Name|kgCo2e w/o use| kgCO2e w/ use|
 |---|---|---|
 |Dell PowerEdge C4130|1244.60|12700.00|
 |Dell PowerEdge C4140|1346.40|6800.00|
