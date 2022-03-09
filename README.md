@@ -10,7 +10,8 @@ This is a compiled list of carbon footprints compiled from various sources used 
 The data listed before has been extracted and compiled from the official [Dell website](https://www.dell.com/learn/uk/en/ukcorp1/corporate_corp-comm_dellwebpage/environment_carbon_footprint_products#campaignTabs-3)
 
 |Product Name|kgCo2e w/o use| kgCO2e w/ use|
-|---|---|---||[Dell PowerEdge C4130](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-poweredge-C4130.pdf)|1244.60|12700.00|
+|---|---|---|
+|[Dell PowerEdge C4130](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-poweredge-C4130.pdf)|1244.60|12700.00|
 |[Dell PowerEdge C4140](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-poweredge-C4140.pdf)|1346.40|6800.00|
 |[Dell PowerEdge C6420](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-poweredge-C6420.pdf)|1256.40|6510.00|
 |[Dell PowerEdge FC430](https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-poweredge-FC430.pdf)|1692.64|5680.00|
