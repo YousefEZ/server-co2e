@@ -7,7 +7,7 @@ This is a compiled list of carbon footprints compiled from various sources used 
 **kg CO2e w/ use** is the total carbon footprint expected after 4 years of use. 
 
 ## Dell
-data has been extracted from this [site](https://www.dell.com/learn/uk/en/ukcorp1/corporate_corp-comm_dellwebpage/environment_carbon_footprint_products#campaignTabs-3)
+The data listed before has been extracted and compiled from the official [Dell website](https://www.dell.com/learn/uk/en/ukcorp1/corporate_corp-comm_dellwebpage/environment_carbon_footprint_products#campaignTabs-3)
 
 |Product Name|kgCo2e w/o use| kgCO2e w/ use|
 |---|---|---|
